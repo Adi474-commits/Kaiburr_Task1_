@@ -103,11 +103,10 @@ The base URL for all endpoints is `http://localhost:8081`.
 
 *All screenshots include the system date/time and task owner name for verification.*
 
+
 ### 1. Create a New Task
-![Create Task](screenshots/01_create_task.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/01_create_task_owner.png)
+<img width="1315" height="289" alt="01_create_task" src="https://github.com/user-attachments/assets/b533de44-0b5d-4249-80a5-80ed0dd691af" />
+
 
 ### 2. Attempt to Create a Task with an Unsafe Command
 ![Unsafe Command Blocked](screenshots/02_unsafe_command.png)
@@ -138,4 +137,5 @@ The base URL for all endpoints is `http://localhost:8081`.
 <br/>
 **Owner / Timestamp (for verification):**
 ![Owner and Timestamp](screenshots/06_execution_history_owner.png)
+
 
