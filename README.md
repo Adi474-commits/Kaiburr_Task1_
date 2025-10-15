@@ -109,23 +109,23 @@ The base URL for all endpoints is `http://localhost:8081`.
 
 
 ### 2. Attempt to Create a Task with an Unsafe Command
-<img width="1315" height="289" alt="02_unsafe_command" src="https://github.com/user-attachments/assets/08cf1cd2-934b-4025-82f0-f6cb4a6a69f7" />
+<img width="1315" height="289" alt="ADITHYA REDDY adithyasnr@gmail com (1)" src="https://github.com/user-attachments/assets/6771c833-e93c-490f-8709-6db6227af82d" />
 
 
 ### 3. Get All Tasks
-<img width="646" height="289" alt="03_get_all_tasks_owner" src="https://github.com/user-attachments/assets/1e432023-fd14-4175-9810-3270d59cbe43" />
+<img width="646" height="289" alt="T1_s3" src="https://github.com/user-attachments/assets/30544ee2-1f80-4978-b0ca-75c2ab9322a4" />
 
 
 ### 4. Search for a Task by Name
-<img width="1315" height="193" alt="04_search_tasks_owner" src="https://github.com/user-attachments/assets/5085ea5f-3613-430b-b319-e61e8f4c49a0" />
+<img width="1315" height="193" alt="Task1_4" src="https://github.com/user-attachments/assets/0ff63f71-9baa-4058-945f-63f3dcdb61d7" />
 
 
 ### 5. Execute a Task
-<img width="646" height="289" alt="05_execute_task_owner" src="https://github.com/user-attachments/assets/b3a3f402-74d6-4814-bb54-959a5d8252ed" />
+<img width="1221" height="277" alt="ADITHYA REDDY adithyasnr@gmail com (2)" src="https://github.com/user-attachments/assets/96b71e87-1a8a-4284-b464-0569895bf9d3" />
 
 
 ### 6. Verify Task Execution History
-<img width="646" height="289" alt="06_execution_history_owner" src="https://github.com/user-attachments/assets/964ab5ca-1cde-43a2-adb2-b3db6312cd15" />
+<img width="1220" height="282" alt="ADITHYA REDDY adithyasnr@gmail com (3)" src="https://github.com/user-attachments/assets/0a06f399-7994-47da-983d-da12ccef2f71" />
 
 
 
