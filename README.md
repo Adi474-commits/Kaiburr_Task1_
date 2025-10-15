@@ -109,33 +109,23 @@ The base URL for all endpoints is `http://localhost:8081`.
 
 
 ### 2. Attempt to Create a Task with an Unsafe Command
-![Unsafe Command Blocked](screenshots/02_unsafe_command.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/02_unsafe_command.png)
+<img width="1315" height="289" alt="02_unsafe_command" src="https://github.com/user-attachments/assets/08cf1cd2-934b-4025-82f0-f6cb4a6a69f7" />
+
 
 ### 3. Get All Tasks
-![Get All Tasks](screenshots/03_get_all_tasks_owner.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/03_get_all_tasks_owner.png)
+<img width="646" height="289" alt="03_get_all_tasks_owner" src="https://github.com/user-attachments/assets/1e432023-fd14-4175-9810-3270d59cbe43" />
+
 
 ### 4. Search for a Task by Name
-![Search Tasks](screenshots/04_search_tasks_owner.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/04_search_tasks_owner.png)
+<img width="1315" height="193" alt="04_search_tasks_owner" src="https://github.com/user-attachments/assets/5085ea5f-3613-430b-b319-e61e8f4c49a0" />
+
 
 ### 5. Execute a Task
-![Execute Task](screenshots/05_execute_task_owner.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/05_execute_task_owner.png)
+<img width="646" height="289" alt="05_execute_task_owner" src="https://github.com/user-attachments/assets/b3a3f402-74d6-4814-bb54-959a5d8252ed" />
+
 
 ### 6. Verify Task Execution History
-![Task Execution History](screenshots/06_execution_history_owner.png)
-<br/>
-**Owner / Timestamp (for verification):**
-![Owner and Timestamp](screenshots/06_execution_history_owner.png)
+<img width="646" height="289" alt="06_execution_history_owner" src="https://github.com/user-attachments/assets/964ab5ca-1cde-43a2-adb2-b3db6312cd15" />
+
 
 
